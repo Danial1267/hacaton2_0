@@ -1,0 +1,32 @@
+.block3_img {
+    max-width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.about {
+    background-color: #056CF2;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.text_block {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.text_block3 {
+    max-width: 300px;
+    color: #ffffff;
+    font-size: 20px;
+    gap: 20px;
+}
+
+.about {
+    gap: 20px;
+}

@@ -1,0 +1,29 @@
+.container2 {
+    background-color: #06153C;
+    padding-bottom: 10px;
+}
+
+.text1 {
+    color: rgba(242, 243, 245, 0.57);
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.text2{
+    color: #ffffff;
+    max-width: 200px;
+    font-size: 20px;
+}
+
+.text_block {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    /* gap: 400px; */
+}
+
+.block2_img {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

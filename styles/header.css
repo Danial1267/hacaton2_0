@@ -1,0 +1,15 @@
+.header_container {
+    display: flex;
+    justify-content: space-between;
+    background-color: #06153c;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.header_btn {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    color: #ffffff;
+}

@@ -1,0 +1,16 @@
+.footer {
+    background-color: #085195;
+}
+
+.footer_container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.text_footer {
+    color: #ffffff;
+    font-size: 20px;
+}

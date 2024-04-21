@@ -1,0 +1,60 @@
+.container1 {
+    background-image: url('../img/phone1.jpg');
+
+}
+
+.main_container {
+    display: flex;
+    flex-direction: column;
+}
+
+.main_container-center {
+    display: flex;
+    justify-content: space-between;
+}
+
+.main_img {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 200px;
+}
+
+.zont {
+    position: absolute;
+}
+
+img.earth {
+    margin-left: 50px;
+}
+
+.main_text {
+    font-size: 20px;
+    max-width: 100px;
+}
+
+.text {
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.text_missoin {
+    font-weight: 700;
+}
+
+.main_container_text {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1000px;
+}
+
+.main_container-center {
+    padding-bottom: 40px;
+}
+
+.text_two {
+    max-width: 200px;
+}
